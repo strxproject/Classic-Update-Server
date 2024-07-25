@@ -2,7 +2,7 @@
     "files": [
         {
             "source": "hai.txt",
-            "destination": "C:\\Users\\Patrick\\Desktop\\hai.txt"
+            "destination": "your path 2 file"
         }
     ]
 }
