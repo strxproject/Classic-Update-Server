@@ -1,0 +1,28 @@
+{
+    "files": [
+        {
+            "source": "version.txt",
+            "destination": "C:\\Classic Updates\\version.txt"
+        }
+    ],
+    "commandfiles": [
+        {
+            "type": "batch",
+            "file": "script.bat"
+        },
+        {
+            "type": "vbs",
+            "file": "script.vbs"
+        }
+    ],
+    "commands": [
+        {
+            "command": "echo",
+            "args": ["hello bitches :3"]
+        },
+        {
+            "command": "winver",
+            "args": ["none"]
+        }
+    ]
+}

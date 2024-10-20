@@ -1,8 +1,0 @@
-{
-    "files": [
-        {
-            "source": "hai.txt",
-            "destination": "your path 2 file"
-        }
-    ]
-}
