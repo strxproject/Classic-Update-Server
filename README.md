@@ -1,5 +1,5 @@
 # Classic-Update-Server
-This is the update server for Classic 7. Here's how it works.
+This is the update server for Classic 7.
 # update.upd
 update.upd is basically a glorified JSON file.
 
