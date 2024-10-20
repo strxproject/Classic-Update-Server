@@ -1,6 +1,8 @@
 # Classic-Update-Server
 This is the update server for Classic 7. Here's how it works.
-### Changelogs
-The Flask server looks into the file called `changelog.txt` if you do a `http://127.0.0.1:5000/getchangelog`.
+# update.upd
+update.upd is basically a glorified JSON file.
 
-You can pair this with `/getversion` which checks a file called `version.txt` for the version number.
+An example one is included in `updates/0.4.2/update.upd`.
+# can i use???!!?!
+Yes. I don't mind as long as you credit this.
